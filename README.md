@@ -1,2 +1,2 @@
-# Musical_Time_Machine
-Creates a play list of top 100 songs of any year on your Spotify account.
+# Snake_Game
+Classic snake game based on nokia's original game.
